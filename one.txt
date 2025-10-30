@@ -1,2 +1,3 @@
 this is first file
 this is somemore text to file 1
+now this is the third line
